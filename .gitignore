@@ -1,0 +1,5 @@
+data/project_video.mp4
+data/calibration.npz
+output/*.mp4
+__pycache__/
+.pytest_cache/
